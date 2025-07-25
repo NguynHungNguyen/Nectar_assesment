@@ -1,0 +1,3 @@
+Prompt 1(Generate samples):A sensual realistic women lying fully nude on the sofa, long blue hair, softly backlit, arched back, subtle curves, alluring gaze, natural skin texture, warm ambient lighting, boudoir photography style, tasteful eroticism, high detail, photorealistic, cinematic shadows, realistic skin texture, no plastic skin,realistic,hd 
+
+Prompt 2(Reference control): Retain face. Change the hair to dark blue.
