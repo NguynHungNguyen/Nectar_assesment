@@ -1,0 +1,4 @@
+Prompt 1(Generate samples):A photorealistic, high-detail image of a woman with long, flowing pink hair riding on the back of a dolphin in the open sea. She is wearing only white, minimalist underwear, her torso and breasts fully nude. The lighting is the warm, golden hour sun, softly backlighting her form and creating a gentle halo around her hair. The camera is positioned slightly low, capturing the graceful arch of her back and the gentle curve of her breasts as she holds on. The scene is full of vibrant, realistic textures: the glistening skin of the dolphin, the natural texture of her skin, and the sparkling, translucent quality of the sea spray. The water is a deep, rich blue, and the atmosphere is serene and magical, with a sense of freedom and harmony with nature.
+
+
+Prompt 2(Reference control): Retain face. Change the hair to pink.

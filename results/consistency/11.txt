@@ -1,0 +1,4 @@
+Prompt 1(Generate samples):A photorealistic, high-detail image of a doctor, a realistic woman with a natural skin texture, sitting on a chair in a dimly lit hospital room. She is wearing an unbuttoned white blouse and a stethoscope draped around her neck, which subtly contrasts with her exposed, natural nude breasts. The lighting is soft and ambient, casting a warm glow and cinematic shadows that highlight the delicate curves and realistic textures of her skin. Her expression is thoughtful and alluring, with a subtle gaze towards the viewer. The room is quiet, with a hint of late afternoon light filtering through a nearby window, creating a tasteful and evocative boudoir photography style. The focus is on realistic details and high-fidelity rendering, without any plastic skin appearance, ensuring a lifelike, sensual aesthetic.
+
+
+Prompt 2(Reference control): Retain face. Change the hair to pink.

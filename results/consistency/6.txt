@@ -1,0 +1,3 @@
+Prompt 1(Generate samples):A photorealistic, highly detailed image of a female, in her office outfit, walking on a crowded, sun-drenched city street. Her nude breasts are subtly exposed, captured with natural skin texture and realistic anatomical details, and the soft ambient lighting emphasizes the gentle curves. She is walking with a tool bag slung over her shoulder, her face partially obscured by the frame, lending a sense of candid voyeurism. The background is filled with a variety of pedestrians and everyday urban life, all rendered with sharp, realistic detail.
+
+Prompt 2(Reference control): Retain face. Change the hair to pink.
