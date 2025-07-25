@@ -1,3 +1,0 @@
-Prompt 1(Generate samples):A highly detailed, photorealistic photograph of a woman with long, lustrous hair, sitting confidently on the hood of a vintage car in a gritty, urban setting at dusk. She is wearing a short skirt, with her nude breasts subtly shadowed by the moody, cinematic lighting. Her body is relaxed, with a tasteful display of natural curves and realistic skin texture. The shot is low-angle, emphasizing the powerful lines of the car and the sensual form of the woman, with a shallow depth of field that blurs the surrounding city.
-
-Prompt 2(Reference control): Retain face. Change the hair to pink.

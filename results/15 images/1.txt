@@ -1,4 +1,0 @@
-Prompt 1(Generate samples):A photorealistic, sensual image of a cowgirl riding a powerful horse through a sun-drenched farm at golden hour. Her long, natural hair is a wild mane, and she is wearing distressed short jeans. Her nude breasts are softly backlit by the setting sun, their subtle curves and natural skin texture highlighted in the warm ambient light. The image captures a tasteful eroticism, with high detail and a cinematic quality, with the light creating dramatic shadows on her body and the horse.
-
-
-Prompt 2(Reference control): Retain face. Change the hair to pink.

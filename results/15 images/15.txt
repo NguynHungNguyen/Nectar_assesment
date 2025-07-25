@@ -1,3 +1,0 @@
-Prompt 1(Generate samples):A photorealistic, cinematic image of a realistic woman with long, flowing pink hair. She is wearing a classic nurse's hat and a short, form-fitting skirt. Her chest is bare, with a natural skin texture softly lit by a single, dramatic light source that creates deep shadows and highlights her subtle curves. Her gaze is alluring and confident, and the background is a stylized, vintage-looking hospital room with rich, warm ambient lighting. The detail is incredibly high, with every strand of hair and every texture of skin rendered photorealistically.
-
-Prompt 2(Reference control): Retain face. Change the hair to pink.

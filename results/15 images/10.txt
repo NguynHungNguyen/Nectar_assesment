@@ -1,4 +1,0 @@
-Prompt 1(Generate samples):A photorealistic, highly detailed image of a female lawyer in a modern, wood-paneled courtroom. She is standing at the podium, wearing a tailored black blazer, but her nude breasts are exposed. The lighting is dramatic, with a single, softly-focused spotlight illuminating her from above, casting long, cinematic shadows. The skin texture is natural, with subtle curves and highlights. Her expression is confident and focused. The background is slightly blurred to keep the focus on her.
-
-
-Prompt 2(Reference control): Retain face. Change the hair to pink.

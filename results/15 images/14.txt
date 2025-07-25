@@ -1,4 +1,0 @@
-Prompt 1(Generate samples):A photorealistic, high-detail image of a powerful and beautiful queen, sitting on a grand, ornate throne in a medieval castle. She wears an elaborate crown, but is otherwise nude from the waist up. Her breasts are rendered with natural, realistic skin texture, subtle curves, and a soft, full shape, with delicate shading that emphasizes their form. The lighting is cinematic, with a warm ambient glow from torches or a large window, softly illuminating her upper body and the intricate details of her crown and the throne. The focus is on a tasteful and regal portrayal, blending classical artistry with photorealistic detail.
-
-
-Prompt 2(Reference control): Retain face. Change the hair to pink.
