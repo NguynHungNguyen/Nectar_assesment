@@ -1,0 +1,4 @@
+Prompt 1(Generate samples):A high-detail, photorealistic image of a female soldier in a realistic style. She has a powerful and athletic build, with a strong, determined expression. She is driving a jeep car. The composition focuses on her upper body and the intense action. Her bare breasts have a natural form and texture, rendered with sharp detail under the harsh, sun-drenched light of a desert landscape. The lighting is strong and unforgiving, highlighting the subtle muscle tone and realistic skin texture of her body.
+
+
+Prompt 2(Reference control): Retain face. Change the hair to pink.
