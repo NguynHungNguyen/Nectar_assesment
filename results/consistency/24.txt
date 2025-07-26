@@ -1,0 +1,3 @@
+Prompt 1(Generate samples):A photorealistic, highly detailed image of a girl with long, flowing pink hair. She is wearing a bright yellow hoodie, and is riding a vintage bicycle uphill on a winding road during the golden hour. Her back is partially turned to the audience, and her hair, catching the sunlight, is flying beautifully in the wind. The lighting is warm and ambient, creating long, cinematic shadows. The scene is imbued with a sense of peace and subtle movement, capturing the realistic texture of her clothing, the road, and the natural landscape around her.
+
+Prompt 2(Reference control): Retain face. Change the hair to pink.

@@ -1,0 +1,3 @@
+Prompt 1(Generate samples):A hyper-realistic, high-detail photograph of a young woman with a serene expression, sitting on a high-rise windowsill in New York City. She has a pink long hair. She is meticulously applying red nail polish to her toes. The warm, soft glow from a single lamp inside illuminates her and the rich, natural textures of her skin, while the cool, vibrant neon lights and blurred city traffic of the night-time cityscape are visible through the window. The focus is sharp on her hands and feet, with the city lights creating a beautiful, bokeh-filled background. The mood is intimate and contemplative, like a scene from a classic film.
+
+Prompt 2(Reference control): Retain face. Change the hair to pink.

@@ -1,0 +1,3 @@
+Prompt 1(Generate samples):A photorealistic, cinematic image of a girl climbing a metallic ladder to a gritty urban rooftop at dusk. Her back is half-turned to the viewer, revealing the detailed texture of her worn worker's uniform. The setting sun casts a soft, warm backlight, creating a halo effect around her and highlighting subtle curves and the realistic texture of her skin on her exposed neck and arms. The lighting creates long, dramatic shadows on the brick wall and the ladder, giving the scene a moody, contemplative atmosphere with a focus on high detail and cinematic realism.
+
+Prompt 2(Reference control): Retain face. Change the hair to pink.

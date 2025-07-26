@@ -1,0 +1,3 @@
+Prompt 1(Generate samples):A photorealistic, cinematic image of a woman with long, vibrant pink hair gracefully dancing the tango. Her form-fitting white evening gown, a masterpiece of couture, is intricately adorned with a subtle pattern of sparkling diamonds along its seams and outline. A delicate, high-end diamond necklace and a brilliant solitaire ring adorn her. The fabric shimmers with a natural texture under the warm, low-key ambient lighting of a dimly lit ballroom. Subtle shadows define the graceful lines of her body, creating a mood of passionate intensity and high detail
+
+Prompt 2(Reference control): Retain face. Change the hair to pink.

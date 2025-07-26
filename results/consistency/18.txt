@@ -1,0 +1,3 @@
+Prompt 1(Generate samples):A hyper-realistic, high-detail photograph of a young woman running away down a deserted street at dusk. Her back is turned to the camera, but she is glancing back over her shoulder with a complex, emotional expression in her eyes—a mix of fear, defiance, and a hint of sadness. Her hair is flying around her face, and her clothing is slightly torn, suggesting a recent struggle. The lighting is soft and cinematic, with warm ambient light from distant streetlights casting long shadows. The focus is sharp on her face and the movement of her body, with a shallow depth of field that blurs the background.
+
+Prompt 2(Reference control): Retain face. Change the hair to pink.

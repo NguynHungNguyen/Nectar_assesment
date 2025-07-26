@@ -1,0 +1,3 @@
+Prompt 1(Generate samples):A photorealistic, cinematic image of a woman with long, vibrant pink hair gracefully dancing the tango. Her back is turned to the viewer, capturing the elegant arch of her spine and the dramatic movement of a deep pink silk dress that cascades around her legs. The fabric shimmers with a natural texture under the warm, low-key ambient lighting of a dimly lit ballroom. Subtle shadows define the graceful lines of her body, creating a mood of passionate intensity and high detail
+
+Prompt 2(Reference control): Retain face. Change the hair to pink.
